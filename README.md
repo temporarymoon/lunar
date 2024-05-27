@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/lunar](https://github.com/prescientmoon/lunar) 🚧
 # Lunarlang
 
 Small programming language made for the [code community code jam](https://discord.gg/RFPVysw)
